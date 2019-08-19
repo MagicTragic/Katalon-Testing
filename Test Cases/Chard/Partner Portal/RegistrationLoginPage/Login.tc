@@ -4,18 +4,18 @@
    <name>Login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b8a5a093-d9ae-47d6-94be-b2efc3e504f8</testCaseGuid>
+   <testCaseGuid>eef78bfb-dbce-4ccb-be50-7c3963055896</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>d09651a9-8166-4bba-ab02-ffd15b258228</id>
+      <id>4c56e1a3-5938-4670-bb05-bd746c410702</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>9b1b1a5f-e2b0-481b-a65d-a02e06bfe397</id>
+      <id>1a94f20f-a6cf-4186-a93d-5910656e38e4</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>

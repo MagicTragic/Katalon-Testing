@@ -4,60 +4,60 @@
    <name>Registration</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f5ada200-9489-4280-a704-605f39653f0e</testCaseGuid>
+   <testCaseGuid>37970ed3-dbd4-403f-a973-526e67060326</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>6da09eb8-1631-4dbf-bc72-92e83cabf3cb</id>
+      <id>17515f3e-043a-44b9-9628-56d8ed17a4b3</id>
       <masked>false</masked>
       <name>Name</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>d4f9f66a-bae2-49c1-9d1f-b6d12a745065</id>
+      <id>36b98649-2d36-4660-b938-1272d22429eb</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>ce2030d6-f6f2-4aae-b483-1bcba5b7d141</id>
+      <id>13088a0a-c663-4350-9184-545ad6072967</id>
       <masked>false</masked>
       <name>Email</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>10915c34-3717-41f0-9a20-422933baa166</id>
+      <id>513c3afb-24e2-4e2c-8206-8c304360f122</id>
       <masked>false</masked>
       <name>CompanyName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>2187a2fe-75b0-4229-9ed5-5310951bb4c3</id>
+      <id>3c339074-5290-4f23-95d2-acb9374aaa5a</id>
       <masked>false</masked>
       <name>CompanyTitle</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a8e02a7c-ca52-4e4b-8bed-d6bcaaf7be9b</id>
+      <id>70f8488c-d34d-44ee-a01e-fe686911aa50</id>
       <masked>false</masked>
       <name>MobilePhone</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>5fac226b-badf-49e1-899b-92afa85b08d5</id>
+      <id>2f4cd4ef-56b8-4f95-a2db-7af9c305404a</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>b19360d9-9934-4541-8369-ccd87a3ae960</id>
+      <id>38cf005e-8f96-44b9-8198-0b3f458cb796</id>
       <masked>false</masked>
       <name>Gender</name>
    </variable>
